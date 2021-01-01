@@ -1,8 +1,8 @@
 ---
-name: Lab 01 Question Template
-about: Template to post a question related to Lab 01
+name: Lab 02 Question Template
+about: Template to post a question related to Lab 02
 title: ""
-labels: ":computer: Lab 01"
+labels: ":computer: Lab 02"
 assignees: ""
 ---
 
