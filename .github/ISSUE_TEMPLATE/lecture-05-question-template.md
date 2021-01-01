@@ -1,9 +1,10 @@
 ---
-name: "Lecture 05 Question Template "
+name: 'Lecture 05 Question Template '
 about: Template to post a question related to Lecture 05
-title: ""
+title: ''
 labels: ":books: Lecture 05"
-assignees: ""
+assignees: ''
+
 ---
 
 # Description
