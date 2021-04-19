@@ -1,9 +1,10 @@
 ---
 name: Lab 08 Question Template
 about: Template to post a question related to Lab 08
-title: ""
+title: ''
 labels: ":computer: Lab 08"
-assignees: ""
+assignees: ''
+
 ---
 
 # Summary
